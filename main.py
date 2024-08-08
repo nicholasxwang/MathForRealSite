@@ -1,5 +1,6 @@
 from flask import Flask, render_template
 import json
+import os
 
 app = Flask(__name__)
 
@@ -8,7 +9,13 @@ def main():
     # team is the loaded json from static/team.json
     with open('static/team.json') as f:
         team = json.load(f)
-    return render_template('index.html', team = team)
+
+    # list of all images in static/gallery
+    gallery = []
+    for file in os.listdir('static/gallery'):
+        gallery.append(file)
+
+    return render_template('index.html', team = team, gallery = gallery)
 
 @app.route('/about-us')
 def about_us():
