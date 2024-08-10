@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" class="dark">
 <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link href="https://cdn.jsdelivr.net/npm/flowbite@2.5.1/dist/flowbite.min.css" rel="stylesheet" />
-    {% include "layout.html" %}
+       {% include "layout.html" %}
     <style>
         body{
             background-size: 40px 40px;
@@ -38,7 +36,7 @@
     position: absolute;
     top: 60px;
     left: 60px;
-" id="formula1">
+" id="formula1" class="md:block hidden">
             $$A_{triangle}=\frac{1}{2}bh$$
         </div>
         <div style="
@@ -46,7 +44,7 @@
     position: absolute;
     top: 15%;
     right: 20%;
-" id="formula2">
+" id="formula2" class="md:block hidden">
             $$a^2+b^2=c^2$$
         </div>
         <div style="
@@ -54,7 +52,7 @@
     position: absolute;
     bottom:25%;
     left: 30%;
-" id="formula3">
+" id="formula3" class="md:block hidden">
             $$V=lwh$$
         </div>
         <div style="
@@ -62,7 +60,7 @@
     position: absolute;
     top: 80%;
     right: 10%;
-" id="formula4" class="lg:block hidden">
+" id="formula4" class="md:block hidden">
             $$a+(b+c)=(a+b)+c$$
         </div>
 
@@ -72,7 +70,7 @@
     position: absolute;
     top: 80%;
     left: 15%;
-"  id="formula5">
+"  id="formula5" class="md:block hidden">
             $$A_{rectangle}=lw$$
         </div>
 
@@ -81,11 +79,11 @@
     position: absolute;
     top: 30%;
     left: 2%;
-"  id="formula6">
+"  id="formula6" class="md:block hidden">
             $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
         </div>
 
-        <div class="lg:block hidden" style="
+        <div class="md:block hidden" style="
     z-index: -1;
     position: absolute;
     top: 60%;
@@ -98,7 +96,7 @@
 
     </div>
 {#    <canvas id="myChart" style="width:100%;max-width:600px; position: absolute; z-index: -1;"></canvas>#}
-    <div class="w-1/2 mx-auto" style="margin-bottom: 70vh; margin-top: 20vh;">
+    <div class="px-8 md:p-0 md:w-1/2 md:mx-auto" style="margin-bottom: 70vh; margin-top: 20vh;">
         <h1 class="text-white text-8xl text-center font-extrabold" style="
     background: -webkit-linear-gradient(left, #29ab42, #2249f1);
     -webkit-background-clip: text;
@@ -116,51 +114,56 @@
         </p>
 
     </div>
-    <div class="w-3/4 mx-auto" style="margin-bottom: 40vh;">
+    <div class="px-8 md:p-0 md:w-3/4 md:mx-auto" style="margin-bottom: 40vh;">
         <h1 class="text-white text-4xl text-center mb-8 font-extrabold" style='font-family: "Black Han Sans", sans-serif'>Our Impact 🔥 </h1>
-        <div class="w-1/4 float-left">
-            <div>
-                <p class="text-center text-slate-600 uppercase">Students Educated</p>
-                <p class="text-center text-7xl font-extrabold" style="
+        <div>
+            <div class="md:w-1/4 md:float-left mx-auto mb-10 md:mb-0">
+                <div>
+                    <p class="text-center text-slate-600 uppercase">Students Educated</p>
+                    <p class="text-center text-7xl font-extrabold" style="
     background: -webkit-linear-gradient(left, #f00, #fff000);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 "><span id="counterOne">0</span><span id="plus1" class="hidden">+</span></p>
-            </div>
+                </div>
 
-        </div>
-        <div class="w-1/4 float-left">
-            <div>
-                <p class="text-center text-slate-600 uppercase">Countries Served</p>
-                <p class="text-center text-7xl font-extrabold" style="
+            </div>
+            <div class="md:w-1/4 md:float-left mx-auto mb-10 md:mb-0">
+                <div>
+                    <p class="text-center text-slate-600 uppercase">Countries Served</p>
+                    <p class="text-center text-7xl font-extrabold" style="
     background: -webkit-linear-gradient(left, #01ff00, #0300ff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 "><span id="counterTwo">0</span></p>
-            </div>
+                </div>
 
-        </div><div class="w-1/4 float-left">
-        <div>
-            <p class="text-slate-600 uppercase text-center">Qualified Experts</p>
-            <p class="text-center text-7xl font-extrabold " style="
+            </div>
+            <div class="md:w-1/4 md:float-left mx-auto mb-10 md:mb-0">
+                <div>
+                    <p class="text-slate-600 uppercase text-center">Qualified Experts</p>
+                    <p class="text-center text-7xl font-extrabold " style="
     background: -webkit-linear-gradient(left, #ff002a, #2a00ff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 "><span id="counterThree">0</span><span id="plus2" class="hidden">+</span></p>
-        </div>
+                </div>
 
-    </div><div class="w-1/4 float-left">
-        <div>
-            <p class="text-slate-600 uppercase text-center">Lessons Developed</p>
-            <p class="text-center text-7xl font-extrabold " style="
+            </div>
+            <div class="md:w-1/4 md:float-left mx-auto mb-10 md:mb-0">
+                <div>
+                    <p class="text-slate-600 uppercase text-center">Lessons Developed</p>
+                    <p class="text-center text-7xl font-extrabold " style="
     background: -webkit-linear-gradient(left, #00cdff, #feff00);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 "><span id="counterFour">0</span><span id="plus3" class="hidden">+</span></p>
-        </div>
+                </div>
 
-    </div></div>
-    <div class="w-3/4 mx-auto" style="margin-bottom: 20vh;">
+            </div>
+        </div>
+    </div>
+    <div class="px-8 md:p-0 md:w-3/4 md:mx-auto" style="margin-bottom: 20vh;">
         <h1 id="reviews" class="text-white text-4xl text-center mb-8 font-extrabold" style="font-family: &quot;Black Han Sans&quot;, sans-serif">Students & Parents Love Us ❤️</h1>
         <p class="text-gray-400 text-center text-lg mb-6">
             Trust them, not us.
@@ -416,7 +419,7 @@
 
     </div>
 
-        <div class="w-1/2 mx-auto" style="margin-bottom: 20vh;">
+        <div class="px-8 md:p-0 md:w-1/2 md:mx-auto" style="margin-bottom: 20vh;">
         <h1 id="mission" class="text-white text-4xl text-center mb-8 font-extrabold "  style='font-family: "Black Han Sans", sans-serif'>Our Mission 🚀</h1>
         <p class="text-gray-400 text-justify text-lg">
             As students, we best understand what other students don’t understand.
@@ -427,7 +430,7 @@
         </p>
     </div>
 
-    <div class="w-3/4 mx-auto" style="margin-bottom: 20vh;">
+    <div class="px-8 md:p-0 md:w-3/4 md:mx-auto" style="margin-bottom: 20vh;">
         <h1 class="text-white text-4xl text-center mb-8" style='font-weight: 900;  font-family: "Black Han Sans", sans-serif'>Topics Covered ✨</h1>
         <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-12 ">
 
@@ -479,7 +482,7 @@
         </div></div>
 
     </div>
-    <div class="w-1/2 mx-auto" style="margin-bottom: 20vh;">
+    <div class="px-8 md:p-0 md:w-1/2 md:mx-auto" style="margin-bottom: 20vh;">
         <h1 class="text-white text-4xl text-center mb-8" style="font-weight: 900;  font-family: 'Black Han Sans', sans-serif">Ready to Learn? Enroll Now. 🧑‍🎓</h1>
         <div class="border rounded-lg shadow border-gray-700 m-3 backdrop-blur-sm">
 
@@ -496,7 +499,7 @@
 
     </div>
 
-    <div class="w-1/2 mx-auto" id="faq" style="margin-bottom: 20vh;">
+    <div class="px-8 md:p-0 md:w-1/2 md:mx-auto" id="faq" style="margin-bottom: 20vh;">
         <h1 class="text-white text-4xl text-center mb-8" style="font-weight: 900; font-family: 'Black Han Sans', sans-serif">Frequently Asked Questions 🧐</h1>
 
         <div id="accordion-open" class="backdrop-blur-sm" data-accordion="open">
@@ -558,7 +561,7 @@
         </div>
     </div>
 
-    <div class="w-1/2 mx-auto" style="margin-bottom: 20vh;">
+    <div class="px-8 md:p-0 md:w-1/2 md:mx-auto" style="margin-bottom: 20vh;">
         <h1 class="text-white text-4xl text-center mb-8" style="font-weight: 900;  font-family: 'Black Han Sans', sans-serif">Photo Gallery 📸</h1>
         <div id="gallery" class="relative w-full" data-carousel="slide">
             <!-- Carousel wrapper -->
@@ -594,14 +597,14 @@
 
     
 
-    <div class="w-1/2 mx-auto" style="margin-bottom: 20vh;">
+    <div class="px-8 md:p-0 md:w-1/2 md:mx-auto" style="margin-bottom: 20vh;">
         <h1 class="text-white text-4xl text-center mb-8 font-extrabold" id="team" style='font-family: "Black Han Sans", sans-serif'>Our Team 💯</h1>
         <p class="text-gray-400 text-justify text-lg">
             At Math, For Real, we believe that math is a subject that can be enjoyed by everyone. That's why we've developed a unique approach to tutoring that puts the fun back in math. Our free math circle sessions are designed to help students explore the subject in a new and exciting way, and our tutors are there to support them every step of the way. We are committed to helping students develop a deep understanding of math, along with its applications in the real world.
             The team at Math, For Real is composed of a group of highly talented high school students from all over California who are passionate about math and want to help others succeed. Get to know our team of math experts below.
         </p>
     </div>
-    <div class="w-3/4 mx-auto mt-8 grid grid-cols-1 lg:grid-cols-2 2xl:grid-cols-3 gap-12 " style="margin-bottom: 20vh;">
+    <div class="px-8 md:p-0 md:w-3/4 md:mx-auto mt-8 grid grid-cols-1 lg:grid-cols-2 2xl:grid-cols-3 gap-12 " style="margin-bottom: 20vh;">
         {% for person in team %}
             <div class="bg-gray-800/30 backdrop-blur-sm border rounded-lg shadow border-gray-700">
                 <div class="flex flex-col items-center pb-10 pt-4">
@@ -609,14 +612,14 @@
                     <h5 class="mb-1 text-xl font-bold text-white">{{ person['name'] }}  </h5>
 
 
-                    <span class="text-sm text-gray-500 dark:text-gray-400 mx-6 text-start"><span class="text-xs font-medium mr-3 px-2.5 py-0.5 rounded-full bg-blue-900 text-blue-300">{{ person['category'] }}</span>{{ person['description'] }}</span></div>
+                    <span class="text-sm text-gray-500 dark:text-gray-400 mx-6 text-start"><span class="text-xs font-medium mr-3 px-8.5 py-0.5 rounded-full bg-blue-900 text-blue-300">{{ person['category'] }}</span>{{ person['description'] }}</span></div>
             </div>
         {% endfor %}
     </div>
 
 
 
-    <div class="w-1/2 mx-auto" style="margin-bottom: 20vh;">
+    <div class="px-8 md:p-0 md:w-1/2 md:mx-auto" style="margin-bottom: 20vh;">
         <h1 class="text-white text-4xl text-center mb-8" style='font-weight: 900; font-family: "Black Han Sans", sans-serif' id="get-involved">Get Involved 🤝</h1>
         <p class="text-gray-400 text-justify text-lg">We are always in need of dedicated volunteers who are passionate about education and making a difference. By donating your time, you can help us provide quality math education to students in need. Join our team and help us empower the next generation of problem solvers. If you are interested, please email math@math-for-real.org.
 
