@@ -19,7 +19,7 @@
     "name": "Madeline Hu",
     "school": "Los Altos High School",
     "icon": "https://static.wixstatic.com/media/282eaf_722320f253a84bf28574f9143a1e6185~mv2.png/v1/fill/w_682,h_682,al_c,q_90,enc_auto/Screenshot%202024-03-03%20at%205_39_51%E2%80%AFPM.png",
-    "description": "Hi, I'm Maddie Hu, a senior at Los Altos High School. I enjoy learning calculus, discrete math, and proofs, and am excited to help others excel in their mathematical journey.",
+    "description": "Hi, I'm Maddie Hu, a sophomore at Los Altos High School. I enjoy learning calculus, discrete math, and proofs, and am excited to help others excel in their mathematical journey.",
     "category": "Director of Academics",
     "country": ""
   },
@@ -27,7 +27,7 @@
     "name": "Nicholas Wang",
     "school": "BASIS Independent Silicon Valley",
     "icon": "https://static.wixstatic.com/media/282eaf_8faa37c6e66e4488b9e4d6e275881c8c~mv2.png/v1/fill/w_688,h_688,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Screenshot_2024-03-09_at_12_39_29%C3%A2_%C2%AFPM-transformed.png",
-    "description": "I'm Nicholas Wang, a senior at BASIS Independent Silicon Valley who enjoys coding and math. My favorite field in math would be Number Theory. I've done various math competitions such as the AMCs, AIME, BMT, etc. Aside from math, I like to experiment with APIs, work on coding projects, and participate in hackathons. In addition to just casual coding, I compete in algorithmic programming competitions such as USACO and ACSL. In addition to this, I also play both the Piano and the Cello.",
+    "description": "I'm Nicholas Wang, a sophomore at BASIS Independent Silicon Valley who enjoys coding and math. My favorite field in math would be Number Theory. I've done various math competitions such as the AMCs, AIME, BMT, etc. Aside from math, I like to experiment with APIs, work on coding projects, and participate in hackathons. In addition to just casual coding, I compete in algorithmic programming competitions such as USACO and ACSL. In addition to this, I also play both the Piano and the Cello.",
     "category": "Director of Technology",
     "country": ""
   },
@@ -35,8 +35,8 @@
     "name": "Aaron Cohen",
     "school": "BASIS Independent Silicon Valley",
     "icon": "https://static.wixstatic.com/media/282eaf_22a77e37ee0a4824abc41b89b5e2cdad~mv2.png/v1/fill/w_688,h_688,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Screenshot%202024-03-03%20at%208_56_34%E2%80%AFPM.png",
-    "description": "Hello, my name is Aaron Cohen. I am a senior at BASIS Independent Silicon Valley. I am currently taking six AP courses and two Honors courses, including AP Calculus BC, Physics, and Economics. I have been on the Distinguished Honor Roll for every trimester since fifth grade at BASIS. I am an avid reader and have read thousands of fiction and nonfiction books. I also enjoy cycling, archery, and swimming. I believe that math is best learned by focus on mastering fundamentals with incremental progress.\n\n\u200B",
-    "category": "Director of Operations",
+    "description": "Hello, my name is Aaron Cohen. I am a sophomore at BASIS Independent Silicon Valley. I am currently taking six AP courses and two Honors courses, including AP Calculus BC, Physics, and Economics. I have been on the Distinguished Honor Roll for every trimester since fifth grade at BASIS. I am an avid reader and have read thousands of fiction and nonfiction books. I also enjoy cycling, archery, and swimming. I believe that math is best learned by focus on mastering fundamentals with incremental progress.\n\n\u200B",
+    "category": "Director",
     "country": ""
   },
   {
@@ -44,14 +44,14 @@
     "school": "BASIS Independent Silicon Valley",
     "icon": "https://static.wixstatic.com/media/282eaf_703865f933bf448ca6dd5d6621e3a70e~mv2.png/v1/fill/w_688,h_688,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Screenshot%202024-03-03%20at%209_35_53%E2%80%AFPM.png",
     "description": "Hi, my name is Carolina Sun, and I go to BISV and I'm in 9th grade. I enjoy math, teaching, drawing, playing chess, and so many more. I can't wait to learn with you guys!",
-    "category": "Director of Marketing",
+    "category": "Director",
     "country": ""
   },
   {
     "name": "Leo Zeng",
     "school": "BASIS Independent Silicon Valley",
     "icon": "https://static.wixstatic.com/media/282eaf_645422140a8b48118dd9b7a5dbb81cbf~mv2.png/v1/fill/w_688,h_688,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Screenshot%202024-03-03%20at%207_14_58%E2%80%AFPM.png",
-    "description": "Hi, my name is Leo Zeng, and I'm a senior at BASIS Independent Silicon Valley. Math is my favorite subjects, and I've developed a passion for math since kindergarten. In terms of competitive math, I've qualified for AIME since 6th grade, I've gotten perfect score in AMC 8, and I got distinguished honor roll in AMC 10. Outside of math, I also love programming, chemistry, and physics. Some of my hobbies include playing the piano, reading, and playing video games. I also have some experience of being a tutor. I hope to be able to help all of you learn to love math!",
+    "description": "Hi, my name is Leo Zeng, and I'm a sophomore at BASIS Independent Silicon Valley. Math is my favorite subjects, and I've developed a passion for math since kindergarten. In terms of competitive math, I've qualified for AIME since 6th grade, I've gotten perfect score in AMC 8, and I got distinguished honor roll in AMC 10. Outside of math, I also love programming, chemistry, and physics. Some of my hobbies include playing the piano, reading, and playing video games. I also have some experience of being a tutor. I hope to be able to help all of you learn to love math!",
     "category": "Instructor",
     "country": ""
   },
@@ -59,7 +59,7 @@
     "name": "Benjamin Zhang",
     "school": "Lynbrook High School",
     "icon": "https://static.wixstatic.com/media/282eaf_4d9b5d4e51984bf5bfa6d15c15993139~mv2.png/v1/fill/w_688,h_688,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Screenshot%202024-03-03%20at%205_41_38%E2%80%AFPM.png",
-    "description": "Benjamin Zhang is a senior at Lynbrook high school who loves mathematics, coding, and science. When he's not browsing random AOPS wikis, he also enjoys playing his oboe and spending time with his friends!",
+    "description": "Benjamin Zhang is a sophomore at Lynbrook high school who loves mathematics, coding, and science. When he's not browsing random AOPS wikis, he also enjoys playing his oboe and spending time with his friends!",
     "category": "Instructor",
     "country": ""
   },
@@ -67,7 +67,7 @@
     "name": "Niranjan Rao",
     "school": "Cupertino High School",
     "icon": "https://static.wixstatic.com/media/282eaf_cb7e387386cd488c9678b4c18bd3dfea~mv2.png/v1/fill/w_688,h_688,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Screen%20Shot%202024-03-04%20at%205_05_55%20PM.png",
-    "description": "Good afternoon ladies and gentlemen, you have found yourself at my bio. I'm a 2x AIME and 1x USAJMO (I think) qual attending Cupertino High as a senior, and I enjoy coding and other quirky activities. Now, I can proudly walk away with confidence in the fact that I've hit the 1-5 sentence requirement, right in the middle.",
+    "description": "I am a sophomore at Cupertino High School, a two-time AIME qualifier, and a one-time USAJMO qualifier. I have a passion for coding and other unique activities.",
     "category": "Instructor",
     "country": ""
   },
@@ -83,7 +83,7 @@
     "name": "Sandy Xu",
     "school": "Los Altos High School",
     "icon": "https://static.wixstatic.com/media/282eaf_121ebbc421824692a64036f0a7145b82~mv2.png/v1/fill/w_688,h_688,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Screenshot%202024-03-03%20at%205_41_55%E2%80%AFPM.png",
-    "description": "Hi! My name is Sandy Xu, and I am currently a senior at Los Altos High School. Some hobbies I have is playing piano and playing flute in marching band. I have some previous experience with competition math and I qualified for AIME in my senior year. I strongly believe that everyone is capable of excelling and understanding math if given the right guidance and tools, and I wish to help more people see the fun in math.",
+    "description": "Hi! My name is Sandy Xu, and I am currently a senior at Los Altos High School. Some hobbies I have is playing piano and playing flute in marching band. I have some previous experience with competition math and I qualified for AIME in my sophomore year. I strongly believe that everyone is capable of excelling and understanding math if given the right guidance and tools, and I wish to help more people see the fun in math.",
     "category": "Instructor",
     "country": ""
   },
@@ -91,7 +91,7 @@
     "name": "Hanz Baek",
     "school": "The Harker School",
     "icon": "https://static.wixstatic.com/media/282eaf_0855084a705f491e905c1d86cd23d54c~mv2.png/v1/fill/w_684,h_684,al_c,q_90,enc_auto/Screenshot%202024-03-07%20at%2011_10_28%E2%80%AFPM.png",
-    "description": "Hi my name is Hanz Baek, and I'm a senior at the Harker School. Some of my passions include playing the violin, doing archery, and studying for subjects including math, biology, chemistry, and so much more!",
+    "description": "Hi my name is Hanz Baek, and I'm a sophomore at the Harker School. Some of my passions include playing the violin, doing archery, and studying for subjects including math, biology, chemistry, and so much more!",
     "category": "Instructor",
     "country": ""
   },
@@ -99,7 +99,7 @@
     "name": "Naman Siddheshwar",
     "school": "BASIS Indpeendent Silicon Valley",
     "icon": "https://static.wixstatic.com/media/282eaf_f6f858afe8214e39851b8c0d23198e01~mv2.png/v1/fill/w_688,h_688,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Screenshot%202024-03-07%20at%2011_01_32%E2%80%AFPM.png",
-    "description": "Hi! I am Naman Siddheshwar, a senior from BASIS Independent Silicon Valley, and my favorite subjects are math, physics, computer science, and history. I believe that math is the way to understand the universe. I have participated in AMC 10 and qualified for AIME, and am in USACO Silver. Some of my passions are CS/AI, playing the piano, composing music. I find teaching to be a gratifying and enlightening experience, and I am also teaching piano to students outside of their regular classes.",
+    "description": "Hi! I am Naman Siddheshwar, a sophomore from BASIS Independent Silicon Valley, and my favorite subjects are math, physics, computer science, and history. I believe that math is the way to understand the universe. I have participated in AMC 10 and qualified for AIME, and am in USACO Silver. Some of my passions are CS/AI, playing the piano, composing music. I find teaching to be a gratifying and enlightening experience, and I am also teaching piano to students outside of their regular classes.",
     "category": "Instructor",
     "country": ""
   },
@@ -107,7 +107,7 @@
     "name": "Arnav Agrawal",
     "school": "",
     "icon": "https://static.wixstatic.com/media/282eaf_15599b4433c34c6dac6b2a21f832706f~mv2.png/v1/fill/w_620,h_620,al_c,q_90,enc_auto/Screenshot%202024-03-12%20at%206_01_09%E2%80%AFPM.png",
-    "description": "Hi, I'm Aarnav, a senior at Monta Vista High School! I attended the COSMOS summer program in Discrete Math and Number Theory, am in USACO Silver, qualified for ACSL finals, and enjoy studying advanced mathematics. I am extremely passionate about CS, math, and debate!",
+    "description": "Hi, I'm Aarnav, a junior at Monta Vista High School! I attended the COSMOS summer program in Discrete Math and Number Theory, am in USACO Silver, qualified for ACSL finals, and enjoy studying advanced mathematics. I am extremely passionate about CS, math, and debate!",
     "category": "Instructor",
     "country": ""
   },
@@ -115,7 +115,7 @@
     "name": "Emily Wu",
     "school": "Westview High School",
     "icon": "https://static.wixstatic.com/media/282eaf_be96765e28b74c98bbba1c720bcd0340~mv2.png/v1/fill/w_672,h_672,al_c,q_90,enc_auto/Screenshot%202024-03-12%20at%206_01_29%E2%80%AFPM.png",
-    "description": "I’m Emily Wu, and I am currently a ninth grader at Westview High School. I enjoy math and have been in the math club/math olympiad since like 3rd grade. Right now I’m only taking integrated 3 though. i’ve participated in lots of math competitions before (but never rlly won any lol) and i’d like to help out with teaching some younger students in math.",
+    "description": "I’m Emily Wu, and I am currently a tenth grader at Westview High School. I enjoy math and have been in the math club/math olympiad since like 3rd grade. Right now I’m only taking integrated 3 though. i’ve participated in lots of math competitions before (but never rlly won any lol) and i’d like to help out with teaching some younger students in math.",
     "category": "Instructor",
     "country": ""
   },
@@ -123,7 +123,7 @@
     "name": "Ishaan Mishra",
     "school": "Archbishop Mitty High School",
     "icon": "https://static.wixstatic.com/media/282eaf_0a333739cb0d46368bd324b6990f5d47~mv2.png/v1/fill/w_688,h_688,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Screenshot%202024-03-25%20at%207_00_25%E2%80%AFPM.png",
-    "description": "I'm Ishaan Mishra, a senior at Archbishop Mitty High School who enjoys math and spending time with my family. I have experience in many math competitions such as the AMCs, AIME, etc. I enjoy all fields of math, but I especially enjoy combinatorics and geometry. I also enjoy playing chess, biking, and hiking. I thoroughly enjoy math and eagerly anticipate sharing its wonders with younger students through teaching new concepts",
+    "description": "I'm Ishaan Mishra, a sophomore at Archbishop Mitty High School who enjoys math and spending time with my family. I have experience in many math competitions such as the AMCs, AIME, etc. I enjoy all fields of math, but I especially enjoy combinatorics and geometry. I also enjoy playing chess, biking, and hiking. I thoroughly enjoy math and eagerly anticipate sharing its wonders with younger students through teaching new concepts",
     "category": "Instructor",
     "country": ""
   },
@@ -131,7 +131,7 @@
     "name": "Ardell Yu",
     "school": "Los Altos High School",
     "icon": "https://static.wixstatic.com/media/282eaf_1859ede1cea84a2d9e952f3458ab0f0e~mv2.png/v1/fill/w_688,h_688,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Screenshot%202024-04-07%20at%209_39_27%E2%80%AFPM.png",
-    "description": "Hi, my name is Ardell Yu, and I am a senior at LAHS. My main interests are math, art, and writing, and I’m looking forward to working with everyone!",
+    "description": "Hi, my name is Ardell Yu, and I am a sophomore at LAHS. My main interests are math, art, and writing, and I’m looking forward to working with everyone!",
     "category": "Instructor",
     "country": ""
   },
@@ -147,7 +147,7 @@
     "name": "Illia Hubenko",
     "school": "Technical Lyceum NTU \"KPI\", Ukraine",
     "icon": "https://static.wixstatic.com/media/282eaf_b430841991f94c8d8f544a2dc204ea89~mv2.png/v1/fill/w_650,h_650,al_c,lg_1,q_90,enc_auto/Screenshot%202024-04-06%20at%208_edited_edited.png",
-    "description": "Hey, everybody! I am Illia Hubenko and I am in 9th grade of Technical Lyceum NTU \"KPI\". Quick about me: a guy from Europe who is interested in math and everything related to it including physics and computer science, sports lover and FPS games enjoyer. Happy to be in Math, for Real✌",
+    "description": "Hey, everybody! I am Illia Hubenko and I am in 10th grade of Technical Lyceum NTU \"KPI\". Quick about me: a guy from Europe who is interested in math and everything related to it including physics and computer science, sports lover and FPS games enjoyer. Happy to be in Math, for Real✌",
     "category": "Instructor",
     "country": "\uD83C\uDDFA\uD83C\uDDE6"
   }
