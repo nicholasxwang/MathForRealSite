@@ -75,7 +75,7 @@
     "name": "Julian Yang",
     "school": "Westview High School",
     "icon": "https://static.wixstatic.com/media/282eaf_30efa3700967496ca0226842ab665643~mv2.png/v1/fill/w_606,h_606,al_c,q_90,enc_auto/Screen%20Shot%202024-03-05%20at%201_27_01%20PM.png",
-    "description": "\n\u200BWestview High School\n\nJulian Yang\n\nI’m a senior at Westivew High School who loves working with math and physics. I qualified for AIME by guessing and USACO silver. Some of my hobbies are playing tennis, the violin, and Brawl Stars. (You can request to 1v1 me) I love working at a collaborative setting as multiple brains are truely bigger than one. I plan on bringing simple yet profound mathematics which will let us see how this subject lets us have greater understand of the world.",
+    "description": "I’m a senior at Westivew High School who loves working with math and physics. I qualified for AIME by guessing and USACO silver. Some of my hobbies are playing tennis, the violin, and Brawl Stars. (You can request to 1v1 me) I love working at a collaborative setting as multiple brains are truely bigger than one. I plan on bringing simple yet profound mathematics which will let us see how this subject lets us have greater understand of the world.",
     "category": "Instructor",
     "country": ""
   },
@@ -105,7 +105,7 @@
   },
   {
     "name": "Arnav Agrawal",
-    "school": "",
+    "school": "Monta Vista High School",
     "icon": "https://static.wixstatic.com/media/282eaf_15599b4433c34c6dac6b2a21f832706f~mv2.png/v1/fill/w_620,h_620,al_c,q_90,enc_auto/Screenshot%202024-03-12%20at%206_01_09%E2%80%AFPM.png",
     "description": "Hi, I'm Aarnav, a junior at Monta Vista High School! I attended the COSMOS summer program in Discrete Math and Number Theory, am in USACO Silver, qualified for ACSL finals, and enjoy studying advanced mathematics. I am extremely passionate about CS, math, and debate!",
     "category": "Instructor",
@@ -132,6 +132,14 @@
     "school": "Los Altos High School",
     "icon": "https://static.wixstatic.com/media/282eaf_1859ede1cea84a2d9e952f3458ab0f0e~mv2.png/v1/fill/w_688,h_688,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Screenshot%202024-04-07%20at%209_39_27%E2%80%AFPM.png",
     "description": "Hi, my name is Ardell Yu, and I am a sophomore at LAHS. My main interests are math, art, and writing, and I’m looking forward to working with everyone!",
+    "category": "Instructor",
+    "country": ""
+  },
+  {
+    "name": "Andrew Liu",
+    "school": "BASIS Independent Silicon Valley",
+    "icon": "https://media.discordapp.net/attachments/1144851521402581061/1274016021916946584/IMG_3489.png?ex=66f8bf21&is=66f76da1&hm=bd1034c2f4b977428ad778834fb2ba47dac784a1519a33bc6e73b4d0878adc58&=&format=webp&quality=lossless&width=524&height=700",
+    "description": "My name is Andrew and I'm a senior at BASIS Independent Silicon Valley. Beyond doing math/physics, I'm a huge fan of video games like CS2 or Roblox. You can often catch me listening to rap or watching videos on the science behind the Simpsons.",
     "category": "Instructor",
     "country": ""
   },
