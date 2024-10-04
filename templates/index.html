@@ -665,13 +665,13 @@
                 if (entry.isIntersecting) {
                     // check which counter got triggered
                     if (entry.target.id === 'counterOne') {
-                        // start counting up to 600
+                        // start counting up to 800
                         observer.unobserve(entry.target);
                         let counter = 0;
                         const interval = setInterval(() => {
                             counter++;
                             entry.target.textContent = counter;
-                            if (counter === 600) {
+                            if (counter === 800) {
                                 document.getElementById('plus1').classList.remove('hidden');
                                 clearInterval(interval);
                             }
@@ -690,13 +690,13 @@
                             }
                         }, 400);
                     } else if (entry.target.id === 'counterThree') {
-                        // start counting up to 35
+                        // start counting up to 40
                         observer.unobserve(entry.target);
                         let counter = 0;
                         const interval = setInterval(() => {
                             counter++;
                             entry.target.textContent = counter;
-                            if (counter === 35) {
+                            if (counter === 40) {
                                 document.getElementById('plus2').classList.remove('hidden');
                                 clearInterval(interval);
                             }
