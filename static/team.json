@@ -36,7 +36,7 @@
     "school": "BASIS Independent Silicon Valley",
     "icon": "https://static.wixstatic.com/media/282eaf_22a77e37ee0a4824abc41b89b5e2cdad~mv2.png/v1/fill/w_688,h_688,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Screenshot%202024-03-03%20at%208_56_34%E2%80%AFPM.png",
     "description": "Hello, my name is Aaron Cohen. I am a sophomore at BASIS Independent Silicon Valley. I am currently taking six AP courses and two Honors courses, including AP Calculus BC, Physics, and Economics. I have been on the Distinguished Honor Roll for every trimester since fifth grade at BASIS. I am an avid reader and have read thousands of fiction and nonfiction books. I also enjoy cycling, archery, and swimming. I believe that math is best learned by focus on mastering fundamentals with incremental progress.\n\n\u200B",
-    "category": "Director",
+    "category": "Director of Operations",
     "country": ""
   },
   {
@@ -44,7 +44,7 @@
     "school": "BASIS Independent Silicon Valley",
     "icon": "https://static.wixstatic.com/media/282eaf_703865f933bf448ca6dd5d6621e3a70e~mv2.png/v1/fill/w_688,h_688,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Screenshot%202024-03-03%20at%209_35_53%E2%80%AFPM.png",
     "description": "Hi, my name is Carolina Sun, and I go to BISV and I'm in 9th grade. I enjoy math, teaching, drawing, playing chess, and so many more. I can't wait to learn with you guys!",
-    "category": "Director",
+    "category": "Director of Marketing",
     "country": ""
   },
   {
@@ -84,14 +84,6 @@
     "school": "Los Altos High School",
     "icon": "https://static.wixstatic.com/media/282eaf_121ebbc421824692a64036f0a7145b82~mv2.png/v1/fill/w_688,h_688,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Screenshot%202024-03-03%20at%205_41_55%E2%80%AFPM.png",
     "description": "Hi! My name is Sandy Xu, and I am currently a senior at Los Altos High School. Some hobbies I have is playing piano and playing flute in marching band. I have some previous experience with competition math and I qualified for AIME in my sophomore year. I strongly believe that everyone is capable of excelling and understanding math if given the right guidance and tools, and I wish to help more people see the fun in math.",
-    "category": "Instructor",
-    "country": ""
-  },
-  {
-    "name": "Hanz Baek",
-    "school": "The Harker School",
-    "icon": "https://static.wixstatic.com/media/282eaf_0855084a705f491e905c1d86cd23d54c~mv2.png/v1/fill/w_684,h_684,al_c,q_90,enc_auto/Screenshot%202024-03-07%20at%2011_10_28%E2%80%AFPM.png",
-    "description": "Hi my name is Hanz Baek, and I'm a sophomore at the Harker School. Some of my passions include playing the violin, doing archery, and studying for subjects including math, biology, chemistry, and so much more!",
     "category": "Instructor",
     "country": ""
   },
@@ -138,7 +130,7 @@
   {
     "name": "Andrew Liu",
     "school": "BASIS Independent Silicon Valley",
-    "icon": "https://media.discordapp.net/attachments/1144851521402581061/1274016021916946584/IMG_3489.png?ex=66f8bf21&is=66f76da1&hm=bd1034c2f4b977428ad778834fb2ba47dac784a1519a33bc6e73b4d0878adc58&=&format=webp&quality=lossless&width=524&height=700",
+    "icon": "/static/AndrewLiu.png",
     "description": "My name is Andrew and I'm a senior at BASIS Independent Silicon Valley. Beyond doing math/physics, I'm a huge fan of video games like CS2 or Roblox. You can often catch me listening to rap or watching videos on the science behind the Simpsons.",
     "category": "Instructor",
     "country": ""
