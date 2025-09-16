@@ -663,7 +663,7 @@ mask-image: linear-gradient(
                 {% if not person.former == True %}
                 <div class="bg-slate-800/30 backdrop-blur-sm border border-slate-700/40 rounded-xl p-6 text-center shadow transition hover:scale-[1.03]">
                     <div class="flex flex-col items-center">
-                        <img class="w-24 h-24 mb-4 rounded-lg shadow-lg" src="{{ person['icon'] }}" alt="{{ person['name'] }}">
+                        <img class="w-24 h-24 mb-4 rounded-lg shadow-lg object-cover" src="{{ person['icon'] }}" alt="{{ person['name'] }}">
                         <h5 class="text-white text-xl font-bold mb-1">{{ person['name'] }}</h5>
                         <span class="text-slate-400 text-sm mb-2 uppercase tracking-wide">{{ person['school'] }} {{ person['country'] }}</span>
                         <span class="badge inline-block text-xs font-medium px-3 py-1 rounded-full
@@ -693,7 +693,7 @@ mask-image: linear-gradient(
                 {% if person.former == True %}
                 <div class="bg-slate-800/30 backdrop-blur-sm border border-slate-700/40 rounded-xl p-6 text-center shadow transition hover:scale-[1.03]">
                     <div class="flex flex-col items-center">
-                        <img class="w-24 h-24 mb-4 rounded-lg shadow-lg" src="{{ person['icon'] }}" alt="{{ person['name'] }}">
+                        <img class="w-24 h-24 mb-4 rounded-lg shadow-lg object-cover" src="{{ person['icon'] }}" alt="{{ person['name'] }}">
                         <h5 class="text-white text-xl font-bold mb-1">{{ person['name'] }}</h5>
                         <span class="text-slate-400 text-sm mb-2 uppercase tracking-wide">{{ person['school'] }} {{ person['country'] }}</span>
                         <span class="badge inline-block text-xs font-medium px-3 py-1 rounded-full
