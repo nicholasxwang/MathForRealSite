@@ -162,6 +162,15 @@
     "former": false
   },
   {
+    "name": "Euphenia Wu",
+    "school": "Los Altos High School",
+    "icon": "/static/people/Euphie_Wu.png",
+    "description": "Hi, I'm Euphenia (Euphie) Wu, class of 2029 at Los Altos High School. I enjoy coding, science, and math, particularly anything Algebra related. I won gold in ACSL and also participated in AMC competitions. I also enjoy swimming and hanging out with my friends. I'm excited to help cultivate a love for math in younger students through lessons in Math, For Real.",
+    "category": "Instructor",
+    "country": "",
+    "former": false
+  },
+  {
     "name": "Walt Li",
     "school": "BASIS Hangzhou, China",
     "icon": "/static/people/WaltLi.png",
