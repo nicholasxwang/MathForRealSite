@@ -27,6 +27,15 @@
     "former": false
   },
   {
+    "name": "Aditi Kumar",
+    "school": "Los Altos High School",
+    "icon": "/static/people/AditiKumar.png",
+    "description" : "Hello, I’m Aditi Kumar, class of 2029 at Los Altos High School. I enjoy problem-solving in areas like math and programming. I have participated in several math competitions, including MathCounts and AMC. I also love playing the piano and dancing. I am eager to help students develop a passion for math that’s as strong as mine!",
+    "category": "Vice President",
+    "country": "",
+    "former": false
+  },
+  {
     "name": "Nicholas Wang",
     "school": "BASIS Independent Silicon Valley",
     "icon": "/static/people/NicholasWang.png",
