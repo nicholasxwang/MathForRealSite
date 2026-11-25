@@ -109,8 +109,9 @@
   },
   {
     "name": "Naman Siddheshwar",
-    "school": "BASIS Indpeendent Silicon Valley",
+    "school": "BASIS Independent Silicon Valley",
     "icon": "/static/people/NamanSiddheshwar.png",
+    "website": "https://namansiddheshwar.com/",
     "description": "Hi! I am Naman Siddheshwar, from the Class of 2027 at BASIS Independent Silicon Valley, and my favorite subjects are math, physics, computer science, and history. I believe that math is the way to understand the universe. I have participated in AMC 10 and qualified for AIME, and am in USACO Silver. Some of my passions are CS/AI, playing the piano, composing music. I find teaching to be a gratifying and enlightening experience, and I am also teaching piano to students outside of their regular classes.",
     "category": "Instructor",
     "country": "",
